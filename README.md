@@ -6,4 +6,6 @@ criará um dataframe(df) com o pandas. Filtrará os dados por data menor que a d
 
 Criará uma sessão de conexão com o host do e-mail e enviará o e-mail com as informações filtradas.
 
-![Exemplo teste, todas as informações são ficticias](https://ibb.co/ZSDTq08)
+Exemplo teste, todas as informações são ficticias.
+
+![Exemplo teste, todas as informações são ficticias](https://github.com/allan-schwentek/send-report-email-with-python/blob/main/print.png)
